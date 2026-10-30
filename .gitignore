@@ -1,0 +1,9 @@
+.env
+.env.*
+!.env.example
+.aws/
+*.pem
+*.key
+*.log
+.DS_Store
+Thumbs.db
